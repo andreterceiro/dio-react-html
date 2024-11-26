@@ -45,3 +45,14 @@ You can also use in the &lt;ol&gt; tag the property "**type**", with values "A",
     <li>Item 2</li>
     <li>Item 3</li>
 </ol>
+
+### dl, dt and dd
+
+Lists by definition. Examples:
+
+<dl>
+    <dt>Sapo</dt>
+    <dd>Criatura verde e pegajosa</dd>
+    <dt>Coelho<dt>
+    <dd>Criatura quente e fofa</dd>
+</dl>
