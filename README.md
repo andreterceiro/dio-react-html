@@ -26,3 +26,14 @@ As you can see, the structure is similar;
 - have a **content** property;
 - maybe have a **name** property; 
 - maybe have a **http-equiv** property.
+
+
+## Lists
+
+You can use the property "**start**" on an &lt;ol&gt; tag to indicate what is the number the list have to start. Example:
+
+<ol start="4">
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+</ol>
