@@ -56,3 +56,8 @@ Lists by definition. Examples:
     <dt>Coelho<dt>
     <dd>Criatura quente e fofa</dd>
 </dl>
+
+
+## Forms
+
+When you use a tag "**&lt;label&gt;**", you can specify the property "**for**". And in the input field (like a control generated with the tag "**input**"), you must insert a property "**id**" with the same value of the "**for**" property of the label.
