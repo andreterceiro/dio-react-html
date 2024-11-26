@@ -37,3 +37,11 @@ You can use the property "**start**" on an &lt;ol&gt; tag to indicate what is th
     <li>Item 2</li>
     <li>Item 3</li>
 </ol>
+
+You can also use in the &lt;ol&gt; tag the property "**type**", with values "A", "a", "I", "i", "1", "i" as example. Example:
+
+<ol type="I">
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+</ol>
